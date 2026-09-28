@@ -14,3 +14,9 @@ python main.py
 ```
 
 Follow the on-screen menu to pick a game. Your score is tracked for the session.
+
+## Test
+
+```bash
+python -m unittest test_games.py
+```
